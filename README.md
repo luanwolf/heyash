@@ -3,7 +3,7 @@
 
 Bem-vindo ao repositório do [heyash.vercel.app](https://heyash.vercel.app/), um projeto web moderno e responsivo, desenvolvido com foco em desempenho, acessibilidade e experiência do usuário.
 
-Este projeto é um fork de [LiveTerm](https://github.com/Cveinnt/LiveTerm), criado por [Cveinnt](https://github.com/Cveinnt), customizado para refletir a identidade e estilo do Heyash.
+Este projeto é um fork de [LiveTerm](https://github.com/Cveinnt/LiveTerm), criado por [Cveinnt](https://github.com/Cveinnt), customizado para refletir a minha identidade e estilo.
 
 ## 🚀 Tecnologias Utilizadas
 
