@@ -62,7 +62,7 @@ export const sudo = async (args?: string[]): Promise<string> => {
 };
 
 export const prompt = async (args?: string[]): Promise<string> => {
-  window.open('https://github.com/luanwolf/PromptAuxiliar/releases/tag/Prompt', '_blank'); // ...I'm sorry
+  window.open('https://github.com/luanwolf/PromptAuxiliar/releases', '_blank'); // ...I'm sorry
   return `Abrindo repositório do Prompt Auxiliar `;
 };
 
@@ -92,9 +92,13 @@ export const home = (args?: string[]): string => {
                                                                   ░░░░░░                   
 
 • Digite <b>help</b> para ver a lista de comandos disponíveis.
+
 • Digite <b>prompt</b> para ir ao repositório do Prompt Auxiliar.
+
 • Digite <b>perfect_world</b> para ir ao repositório do Menu de Autologin do Perfect World.
+
 • Digite <b>minecraft</b> para ver o Modpack disponibilizado no CurseForge.
+
 • Digite <b>repo</b> ou clique <u><a class="text-light-blue dark:text-dark-blue underline" href="${config.repo}" target="_blank">aqui</a></u> para acessar o repositório do Github.
 `;
 };
